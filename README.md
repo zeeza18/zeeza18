@@ -82,33 +82,30 @@
 ## What I Do
 
 <div align="center">
-    
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name = "Mohammed Azeezulla"
-        self.role = "AI Engineer"
-        self.expertise = [
-            "Retrieval-Augmented Generation (RAG)",
-            "Large Language Models Fine-tuning",
-            "Reinforcement Learning (GRPO, PPO)",
-            "Computer Vision & Generative Models",
-            "MLOps & Production Deployment",
-            "Multi-Agent AI Systems"
-        ]
-        self.current_focus = [
-            "Building Agentic AI Systems",
-            "Advancing Multi-Step Reasoning with RL",
-            "Healthcare AI & Medical Intelligence",
-            "Model Optimization & Efficient Training"
-        ]
-    
-    def say_hi(self):
-        print("Let's build something intelligent together!")
 
-me = AIEngineer()
-me.say_hi()
-```
+**AI Engineer specializing in:**
+
+Retrieval-Augmented Generation (RAG) | Large Language Models Fine-tuning  
+Reinforcement Learning (GRPO, PPO) | Computer Vision & Generative Models  
+MLOps & Production Deployment | Multi-Agent AI Systems
+
+**Current Focus:**
+
+Building Agentic AI Systems | Advancing Multi-Step Reasoning with RL  
+Healthcare AI & Medical Intelligence | Model Optimization & Efficient Training
+
+</div>
+
+<br>
+
+## Publications
+
+<div align="center">
+
+[![IEEE](https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/10126212)
+
+**Skin Disease Analyzer with Enhancement in VGG19 Algorithm**  
+Published in IEEE Xplore | 2024
 
 </div>
 
