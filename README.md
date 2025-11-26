@@ -6,14 +6,14 @@
     Connect with me on LinkedIn or check out my portfolio!
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=Hey+I'm+Mohammed+Azeezulla;AI+Engineer+%7C+Machine+Learning+%7C+GenAI;Building+Intelligent+Systems;RAG+%7C+LLMs+%7C+Deep+Learning+%7C+MLOps" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=Hey+I'm+Mohammed+Azeezulla;AI+Engineer+%7C+Machine+Learning+%7C+GenAI;Building+Intelligent+Systems;RAG+%7C+LLMs+%7C+Deep+Learning+%7C+MLOps" alt="Typing SVG"/>
 </a>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Experienced+AI+Engineer+with+3%2B+years;Specializing+in+LLMs%2C+RAG%2C+and+Production+ML+Systems;DePaul+University+%7C+MS+in+Artificial+Intelligence" alt="Subtitle"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Experienced+AI+Engineer+with+3%2B+years;Specializing+in+LLMs%2C+RAG%2C+and+Production+ML+Systems;DePaul+University+%7C+MS+in+Artificial+Intelligence" alt="Subtitle"/>
 </div>
 
 <br>
@@ -127,7 +127,7 @@ Published in IEEE Xplore | 2024
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azeezulla-mohammed)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.mohammedazeezulla.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black)](https://www.mohammedazeezulla.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azeezullajobapply@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zeeza18)
 
@@ -136,10 +136,10 @@ Published in IEEE Xplore | 2024
 <br>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Thanks+for+visiting;Let's+build+the+future+with+AI;Open+to+collaboration+and+opportunities" alt="Footer"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Thanks+for+visiting;Let's+build+the+future+with+AI;Open+to+collaboration+and+opportunities" alt="Footer"/>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer" alt="footer"/>
 
 <!--
     Made with by Mohammed Azeezulla
